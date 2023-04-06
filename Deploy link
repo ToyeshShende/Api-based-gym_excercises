@@ -1,0 +1,11 @@
+
+Deployment done with the help of vs code and netlify
+
+just put  npm build run on terminal  it will make build folder 
+drag and drop that build folder on netlify 
+
+
+
+
+https://642dd25544daf02062d04c45--extraordinary-halva-1c0445.netlify.app/ 
+This is deployed link of website
